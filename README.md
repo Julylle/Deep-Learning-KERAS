@@ -3,3 +3,7 @@ How neural networks feed data forward through the network. The gradient descent 
 
 ## 1. Artificial Neural Networks
 - **Forward Propagation**:  I built a neural network from scratch and code how it performs predictions using forward propagation.
+
+## 2. Models with Keras
+- **Regression Model**: Making Regression Neural Model using Keras and predicing data 
+
