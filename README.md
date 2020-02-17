@@ -5,5 +5,7 @@ How neural networks feed data forward through the network. The gradient descent 
 - **Forward Propagation**:  I built a neural network from scratch and code how it performs predictions using forward propagation.
 
 ## 2. Models with Keras
-- **Regression Model**: Making Regression Neural Model using Keras and predicing data 
+- **Regression**: Making Regression Neural Model using Keras on a sample data.
+
+- **Classification**: Making a Classification Neural Model using Keras and predicing data on MNIST database. The MNIST database, short for Modified National Institute of Standards and Technology database, is a large database of handwritten digits that is commonly used for training various image processing systems.he database is also widely used for training and testing in the field of machine learning. The MNIST database contains 60,000 training images and 10,000 testing images of digits written by high school students and employees of the United States Census Bureau.
 
