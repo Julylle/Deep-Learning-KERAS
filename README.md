@@ -9,3 +9,7 @@ How neural networks feed data forward through the network. The gradient descent 
 
 - **Classification**: Making a Classification Neural Model using Keras and predicing data on MNIST database. The MNIST database, short for Modified National Institute of Standards and Technology database, is a large database of handwritten digits that is commonly used for training various image processing systems.he database is also widely used for training and testing in the field of machine learning. The MNIST database contains 60,000 training images and 10,000 testing images of digits written by high school students and employees of the United States Census Bureau.
 
+
+## 3. Convolutional Neural Network (CNN)
+- Convolutional Neural Network with One & Two Convolutional and Pooling Layers using MNIST database.
+
